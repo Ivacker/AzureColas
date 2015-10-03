@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="sNombreCola" Type="System.String" Scope="User">
+      <Value Profile="(Default)">prueba</Value>
+    </Setting>
+    <Setting Name="sCuenta" Type="System.String" Scope="User">
+      <Value Profile="(Default)">labaz</Value>
+    </Setting>
+    <Setting Name="sKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FVW2hGnfJHhyRdDdLi+57EqSSzNuKOn6zmqOdqBKicnFsZ4m8RSABnBOY7APHdxdV9WHh4fD0NbizSAeT4fghQ==</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
